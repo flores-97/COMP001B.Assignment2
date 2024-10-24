@@ -65,6 +65,7 @@ p {
 
 .record-label {
 	color: red;
+	font-style: italic;
 }
 
 .track-list{
