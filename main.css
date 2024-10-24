@@ -68,7 +68,7 @@ p {
 }
 
 .track-list{
-	
+	list-style-type: square;
 }
 
 #about-photo {
@@ -83,7 +83,7 @@ p {
 
 
 #copyright {
-
+	color: red;
 }
 
 #section-about, #section-discography, #section-equipment {
